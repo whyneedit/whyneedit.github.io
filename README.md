@@ -1,3 +1,6 @@
 # whyneedit.github.io
 
-### Hello World!
+### It's whyneedit's Blog
+
+Hello World!
+Since 23/02/16
